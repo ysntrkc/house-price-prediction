@@ -97,7 +97,7 @@ ohe = OneHotEncoder()
 hot = ohe.fit_transform(df[categorical_cols].astype(str))
 col_names = list(df[categorical_cols].columns)
 
-joblib.dump(ohe, "data/ohe.pkl")
+joblib.dump(ohe, "dump/ohe.pkl")
 
 df[df["MSSubClass"] == 120]
 
