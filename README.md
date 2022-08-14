@@ -11,7 +11,7 @@ The dataset is available at [Kaggle](https://www.kaggle.com/c/house-prices-advan
 
 <h3 align="left">Project's Steps:</h3>
 
-⚪️ Data was downloaded from kaggle and readed.
+⚪️ Data was downloaded from kaggle and read.
 
 ⚪️ Data is cleaned and get ready for model.
 
